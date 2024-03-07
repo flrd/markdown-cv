@@ -33,10 +33,10 @@ __Working Student__
   - Institute for Ecological Economy Research (IÖW), Editor.
   - PMG Presse Monitor GmbH, Media Analyst.
 
-## software resources
+## R packages
 
-- [gpointless](href="https://github.com/flrd/ggpointless/")
-- [Standardlastprofile](href="https://github.com/flrd/standardlastprofile/")
+- [gpointless](https://github.com/flrd/ggpointless/)
+- [Standardlastprofile](https://github.com/flrd/standardlastprofile/)
 
 ## languages
 

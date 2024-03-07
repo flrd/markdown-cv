@@ -28,7 +28,7 @@ __Research associate, Becker Büttner Held Consulting AG, Berlin.__
 
 `2009 - 2016`
 __Working Student__
-  - Becker Büttner Held Consulting AG, Cosnultant.
+  - Becker Büttner Held Consulting AG, Consultant.
   - CMS Hasche Sigle, Public Relations.
   - Institute for Ecological Economy Research (IÖW), Editor.
   - PMG Presse Monitor GmbH, Media Analyst.

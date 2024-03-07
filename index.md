@@ -18,7 +18,7 @@ __Communication and Media Studies, University of Leipzig, Bachelor of Arts.__
 
 ## experience
 
-`2022 - now`
+`2022 - now `
 __Product Owner, powercloud GmbH, Leipzig.__
 
 `2019 - 2022`

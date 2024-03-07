@@ -35,8 +35,8 @@ __Working Student__
 
 ## R packages
 
-- [gpointless](https://github.com/flrd/ggpointless/)
-- [Standardlastprofile](https://github.com/flrd/standardlastprofile/)
+- [ggpointless](https://github.com/flrd/ggpointless/)
+- [standardlastprofile](https://github.com/flrd/standardlastprofile/)
 
 ## languages
 

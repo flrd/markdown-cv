@@ -1,19 +1,15 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Markus Döring's CV
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# Markus Döring
+Product Owner.
 
 <div id="webaddress">
 <a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
 | <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
 </div>
 
-
-## Currently
-
-Standing on the shoulders of giants
 
 ### Specialized in
 
@@ -27,65 +23,30 @@ Cooling, power series, optics, alchemy, planetary motions, apples.
 
 ## Education
 
-`1654-1660`
-__The King's School, Grantham.__
+`2014 – 2018`
+__Economics, University of Leipzig, Master of Science.__
 
-`June 1661 - now`
-__Trinity College, Cambridge__
+`2010 – 2014`
+__Economics, Free University Berlin, Bachelor of Science.__
 
-- Sizar
-
-`1667 - death`
-__Trinity College, Cambridge__
-
-- Fellow
+`2007 - 2010`
+__Communication and Media Studies, University of Leipzig, Bachelor of Arts.__
 
 
 
-## Awards
+## software resources
 
-`2012`
-President, *Royal Society*, London, UK
+- \- ggpointless &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://flrd.github.io/ggpointless/"><i class="fas fa-home"></i></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/flrd/ggpointless/"><i class="fab fa-github"></i></a>
+- \- Standardlastprofile &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://flrd.github.io/standardlastprofile/"><i class="fas fa-home"></i></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/flrd/standardlastprofile/"><i class="fab fa-github"></i></a>
 
-Associate, *French Academy of Science*, Paris, France
+## Languages
 
-
-
-## Publications
-
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
-
-### Journals
-
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
-
-`1669`
-Lectiones opticæ.
-
-etc. etc. etc.
-
-### Patents
-
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
-
-
-## Occupation
-
-`1600`
-__Royal Mint__, London
-
-- Warden
-- Minted coins
-
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
+- Native: German
+- Fluent: English
+- Basic: French, Russian
 
 
 
-<!-- ### Footer
-
-Last updated: May 2013 -->
+<!-- ### Footer Last updated: March 2024 -->
 
 

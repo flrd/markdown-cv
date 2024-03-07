@@ -7,13 +7,13 @@ title: Markus Döring's CV
 ## education
 
 `2018`
-__Economics, University of Leipzig, Master of Science.__
+__Economics, University of Leipzig, MSc.__
 
 `2014`
-__Economics, Free University Berlin, Bachelor of Science.__
+__Economics, Free University Berlin, BSc.__
 
 `2010`
-__Communication and Media Studies, University of Leipzig, Bachelor of Arts.__
+__Communication and Media Studies, University of Leipzig, BA.__
 
 ## experience
 

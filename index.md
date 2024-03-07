@@ -5,34 +5,34 @@ title: Markus Döring's CV
 # Markus Döring
 Product Owner.
 
-<div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
-</div>
+## education
 
-
-### Specialized in
-
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
-
-
-### Research interests
-
-Cooling, power series, optics, alchemy, planetary motions, apples.
-
-
-## Education
-
-`2014 – 2018`
+`2018`
 __Economics, University of Leipzig, Master of Science.__
 
-`2010 – 2014`
+`2014`
 __Economics, Free University Berlin, Bachelor of Science.__
 
-`2007 - 2010`
+`2010`
 __Communication and Media Studies, University of Leipzig, Bachelor of Arts.__
 
+## experience
 
+`2022 - now`
+__Product Owner, powercloud GmbH, Leipzig.__
+
+`2019 - 2022`
+__Product Owner, Vizzlo GmbH, Leipzig.__
+
+`2018 - 2019`
+__Research associate, Becker Büttner Held Consulting AG, Berlin.__
+
+`2009 - 2016`
+__Working Student__
+  - Becker Büttner Held Consulting AG, Cosnultant.
+  - CMS Hasche Sigle, Public Relations.
+  - Institute for Ecological Economy Research (IÖW), Editor.
+  - PMG Presse Monitor GmbH, Media Analyst.
 
 ## software resources
 

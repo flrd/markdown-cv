@@ -1,0 +1,29 @@
+name: Deploy CV
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v2
+
+      - name: Convert Markdown to HTML
+        run: pandoc -s -o index.html resume.md
+
+      - name: Deploy to GitHub Pages
+        uses: peaceiris/actions-gh-pages@v3
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./
+
+      - name: Convert HTML to PDF
+        uses: wemake-services/html2pdf-action@v1
+        with:
+          html_file: index.html
+          pdf_file: doering-CV.pdf
+          options: '{"format": "A4", "margin": {"top": "10mm", "left": "10mm", "right": "10mm", "bottom": "10mm"}}'

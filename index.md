@@ -18,13 +18,13 @@ __Communication and Media Studies, University of Leipzig, Bachelor of Arts.__
 ## experience
 
 `2022 - now`
-__Product Owner, powercloud GmbH, Leipzig.__
+__Product Owner, [powercloud GmbH](https://power.cloud/en/), Leipzig.__
 
 `2019 - 2022`
-__Product Manager, Vizzlo GmbH, Leipzig.__
+__Product Manager, [Vizzlo GmbH](https://vizzlo.com/), Leipzig.__
 
 `2018 - 2019`
-__Research associate, Becker Büttner Held Consulting AG, Berlin.__
+__Research associate, [Becker Büttner Held Consulting AG](https://www.bbh-beratung.de/en/), Berlin.__
 
 `2009 - 2016`
 __Working Student__

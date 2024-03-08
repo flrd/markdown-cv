@@ -17,7 +17,7 @@ __Communication and Media Studies, University of Leipzig, BA.__
 
 ## experience
 
-`2022 - now`
+`2022 - now `
 __Product Owner, [powercloud GmbH](https://power.cloud/en/), Leipzig.__
 
 `2019 - 2022`

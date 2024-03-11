@@ -66,7 +66,7 @@ __Working Student__
 
 ### Programming skills
 - Advanced: R
-- Basic: MySQL, Javascript
+- Basic: SQL, Javascript
 
 ### (own) R packages
 - [ggpointless](https://github.com/flrd/ggpointless/) Collection of geometries and 

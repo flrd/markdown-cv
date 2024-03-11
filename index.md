@@ -22,12 +22,12 @@ __Product Owner__, _[powercloud GmbH](https://power.cloud/en/)_
 - Stakeholder and expectation management
 - In charge of two backend microservices
 - Strong focus on RESTful API and database design
+- Business analysis
 - Training of employees regarding
   - \- software development
   - \- requirements engineering
   - \- writing of user stories, documentations
   - \- behavior-driven development
-  - \- test case design
 
 `2019 - 2022`
 __Product Manager__, _[Vizzlo GmbH](https://vizzlo.com/)_

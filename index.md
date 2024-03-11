@@ -79,4 +79,4 @@ __Working Student__
 - Interests: running, cycling
 
 
-### Last updated: March 2024
+### Last updated: 2024/03

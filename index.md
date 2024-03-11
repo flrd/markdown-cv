@@ -19,46 +19,50 @@ __BA. Communication and Media Studies, University of Leipzig__
 
 `2022 - now `
 __Product Owner, [powercloud GmbH](https://power.cloud/en/), Leipzig.__
-- Responsible for two backend-only RESTful microservice
-- Solution design with strong focus on API and database design
-- Training of employees with a focus on
-  - writing user stories
-  - understanding software development
-  - creating test case design
+- \- Stakeholder and expectation management
+- \- Responsible for two backend-only RESTful microservice
+- \- Strong focus on API and database design
+- \- Training of employees regarding
+  - \- Requirements engineering
+  - \- Writing of user stories
+  - \- Software development
+  - \- Behavior-Driven Development
+  - \- Test case design
 
 `2019 - 2022`
 __Product Manager, [Vizzlo GmbH](https://vizzlo.com/), Leipzig.__
-- Stakeholder and expectation management
-- Requirements engineering
-- Backlog organisation
-- Key-account-management
-- UI/UX design
-- Software testing, quality assurance
+- \- Stakeholder and expectation management
+- \- Requirements engineering
+- \- Backlog organisation
+- \- Key-account-management
+- \- UI/UX design
+- \- Software testing, quality assurance
 
 `2018 - 2019`
 __Research associate, [Becker Büttner Held Consulting AG](https://www.bbh-beratung.de/en/), Berlin.__
-- Implementation of energy audits according to DIN 16247
-- Introduction of energy management systems according to ISO 50001
+- \- Implementation of energy audits according to DIN 16247
+- \- Introduction of energy management systems according to ISO 50001
 
 `2009 - 2016`
 __Working Student__
-  - Becker Büttner Held Consulting AG, Consultant.
-  - CMS Hasche Sigle, Public Relations.
-  - Institute for Ecological Economy Research (IÖW), Editor.
-  - PMG Presse Monitor GmbH, Media Analyst.
+  - \- Becker Büttner Held Consulting AG, Consultant.
+  - \- CMS Hasche Sigle, Public Relations.
+  - \- Institute for Ecological Economy Research (IÖW), Editor.
+  - \- PMG Presse Monitor GmbH, Media Analyst.
 
 ## Software knowledge
 
-### tools
-- Jira / Confluence
-- Mermaid JS
+### Tools
+- Jira, Confluence
 - Git, Github, Bitbucket
+- [Cucumber](https://cucumber.io/), Gherkin, X-Ray
+- [Mermaid JS](https://mermaid.js.org/)
 
 ### Programming skills
-- Advanced: R
+- Advanced: [R]()
 - Basic: MySQL, Javascript
 
-### R packages
+### (own) R packages
 
 - [ggpointless](https://github.com/flrd/ggpointless/) Collection of geometries and 
     statistics for 'ggplot2'.

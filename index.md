@@ -71,7 +71,7 @@ __Working Student__
 ### (own) R packages
 - [ggpointless](https://github.com/flrd/ggpointless/) Collection of geometries and 
     statistics for 'ggplot2'.
-- [standardlastprofile](https://github.com/flrd/standardlastprofile/) Standard load profiles for electricty from the German Association of Energy and Water Industries (BDEW) in a tidy format.
+- [standardlastprofile](https://github.com/flrd/standardlastprofile/) Standard load profiles for electricty from BDEW in a tidy format.
 
 ## Personal
 - Birth date: April 1, 1986
@@ -79,4 +79,4 @@ __Working Student__
 - Interests: running, cycling
 
 
-### Footer Last updated: March 2024
+### Last updated: March 2024

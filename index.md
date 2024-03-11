@@ -20,7 +20,7 @@ __BA. Communication and Media Studies__, _University of Leipzig_
 `2022 - now `
 __Product Owner__, _[powercloud GmbH](https://power.cloud/en/)_
 - Stakeholder and expectation management
-- Responsible for two backend-only RESTful microservice
+- PO for two backend microservices, communicating through RESTful APIs
 - Strong focus on API and database design
 - Training of employees regarding
   - \- software development

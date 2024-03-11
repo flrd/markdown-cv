@@ -4,7 +4,7 @@ title: Markus Döring's CV
 ---
 # Markus Döring
 
-## education
+## Education
 
 `2018`
 __MSc. Economics, University of Leipzig.__
@@ -15,16 +15,30 @@ __BSc. Economics, Free University Berlin.__
 `2010`
 __BA. Communication and Media Studies, University of Leipzig__
 
-## experience
+## Experience
 
 `2022 - now `
 __Product Owner, [powercloud GmbH](https://power.cloud/en/), Leipzig.__
+- Responsible for two backend-only RESTful microservice
+- Solution design with strong focus on API and database design
+- Training of employees with a focus on
+  - writing user stories
+  - understanding software development
+  - creating test case design
 
 `2019 - 2022`
 __Product Manager, [Vizzlo GmbH](https://vizzlo.com/), Leipzig.__
+- Stakeholder and expectation management
+- Requirements engineering
+- Backlog organisation
+- Key-account-management
+- UI/UX design
+- Software testing, quality assurance
 
 `2018 - 2019`
 __Research associate, [Becker Büttner Held Consulting AG](https://www.bbh-beratung.de/en/), Berlin.__
+- Implementation of energy audits according to DIN 16247
+- Introduction of energy management systems according to ISO 50001
 
 `2009 - 2016`
 __Working Student__
@@ -33,14 +47,24 @@ __Working Student__
   - Institute for Ecological Economy Research (IÖW), Editor.
   - PMG Presse Monitor GmbH, Media Analyst.
 
-## R packages
+## Software knowledge
 
-- [`ggpointless`](https://github.com/flrd/ggpointless/) An (aspirational) collection of additional geometries and 
+### tools
+- Jira / Confluence
+- Mermaid JS
+- Git, Github, Bitbucket
+
+### Programming skills
+- Advanced: R
+- Basic: MySQL, Javascript
+
+### R packages
+
+- [`ggpointless`](https://github.com/flrd/ggpointless/) Collection of geometries and 
     statistics for 'ggplot2'.
-- [`standardlastprofile`](https://github.com/flrd/standardlastprofile/) Data on standard load profiles from the German Association of 
-  Energy and Water Industries (BDEW )in a tidy format.
+- [`standardlastprofile`](https://github.com/flrd/standardlastprofile/) Data on standard load profiles for electricty from the German Association of Energy and Water Industries (BDEW) in a tidy format.
 
-## languages
+## Languages
 
 - Native: German
 - Fluent: English

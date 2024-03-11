@@ -50,6 +50,12 @@ __Working Student__
   - \- Institute for Ecological Economy Research (IÖW), Editor.
   - \- PMG Presse Monitor GmbH, Media Analyst.
 
+## Languages
+
+- Native: German
+- Fluent: English
+- Basic: French, Russian
+
 ## Software knowledge
 
 ### Tools
@@ -68,14 +74,24 @@ __Working Student__
     statistics for 'ggplot2'.
 - [standardlastprofile](https://github.com/flrd/standardlastprofile/) Data on standard load profiles for electricty from the German Association of Energy and Water Industries (BDEW) in a tidy format.
 
-## Languages
-
-- Native: German
-- Fluent: English
-- Basic: French, Russian
 
 
 
-<!-- ### Footer Last updated: March 2024 -->
+### Footer Last updated: March 2024
 
+<details>
+  <summary>Click me</summary>
+  
+  ### Heading
+  1. Foo
+  2. Bar
+     * Baz
+     * Qux
 
+  ### Some Javascript
+  ```js
+  function logSomething(something) {
+    console.log('Something', something);
+  }
+  ```
+</details>

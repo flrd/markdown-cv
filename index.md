@@ -60,9 +60,9 @@ __Working Student__
 
 ### R packages
 
-- [`ggpointless`](https://github.com/flrd/ggpointless/) Collection of geometries and 
+- [ggpointless](https://github.com/flrd/ggpointless/) Collection of geometries and 
     statistics for 'ggplot2'.
-- [`standardlastprofile`](https://github.com/flrd/standardlastprofile/) Data on standard load profiles for electricty from the German Association of Energy and Water Industries (BDEW) in a tidy format.
+- [standardlastprofile](https://github.com/flrd/standardlastprofile/) Data on standard load profiles for electricty from the German Association of Energy and Water Industries (BDEW) in a tidy format.
 
 ## Languages
 

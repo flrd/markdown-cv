@@ -7,18 +7,18 @@ title: Markus Döring's CV
 ## Education
 
 `2018`
-__MSc. Economics, University of Leipzig.__
+__MSc. Economics__, _University of Leipzig._
 
 `2014`
-__BSc. Economics, Free University Berlin.__
+__BSc. Economics__, _Free University Berlin._
 
 `2010`
-__BA. Communication and Media Studies, University of Leipzig__
+__BA. Communication and Media Studies__, _University of Leipzig_
 
 ## Experience
 
 `2022 - now `
-__Product Owner, [powercloud GmbH](https://power.cloud/en/), Leipzig.__
+__Product Owner__, _[powercloud GmbH](https://power.cloud/en/)_
 - Stakeholder and expectation management
 - Responsible for two backend-only RESTful microservice
 - Strong focus on API and database design
@@ -30,7 +30,7 @@ __Product Owner, [powercloud GmbH](https://power.cloud/en/), Leipzig.__
   - \- test case design
 
 `2019 - 2022`
-__Product Manager, [Vizzlo GmbH](https://vizzlo.com/), Leipzig.__
+__Product Manager__, _[Vizzlo GmbH](https://vizzlo.com/)_
 - Stakeholder and expectation management
 - Requirements engineering
 - Backlog organisation
@@ -39,16 +39,16 @@ __Product Manager, [Vizzlo GmbH](https://vizzlo.com/), Leipzig.__
 - Software testing, quality assurance
 
 `2018 - 2019`
-__Research associate, [Becker Büttner Held Consulting AG](https://www.bbh-beratung.de/en/), Berlin.__
+__Research associate__, _[Becker Büttner Held Consulting AG](https://www.bbh-beratung.de/en/)_
 - Implementation of energy audits according to DIN 16247
 - Introduction of energy management systems according to ISO 50001
 
 `2009 - 2016`
 __Working Student__
-  - Becker Büttner Held Consulting AG, Consultant.
-  - CMS Hasche Sigle, Public Relations.
-  - Institute for Ecological Economy Research (IÖW), Editor.
-  - PMG Presse Monitor GmbH, Media Analyst.
+  - _Becker Büttner Held Consulting AG_, Consultant.
+  - _CMS Hasche Sigle_, Public Relations.
+  - _Institute for Ecological Economy Research (IÖW)_, Editor.
+  - _PMG Presse Monitor GmbH_, Media Analyst.
 
 ## Languages
 

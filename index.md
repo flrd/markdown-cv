@@ -25,7 +25,7 @@ __Product Owner, [powercloud GmbH](https://power.cloud/en/), Leipzig.__
 - Training of employees regarding
   - \- software development
   - \- requirements engineering
-  - \- writing of user stories
+  - \- writing of user stories, documentations
   - \- behavior-driven development
   - \- test case design
 

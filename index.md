@@ -20,7 +20,7 @@ __BA. Communication and Media Studies__, _University of Leipzig_
 ## Experience
 
 `2022 - now `
-__Product Owner__, _[powercloud GmbH](https://power.cloud/en/)_
+__Product Owner__, _[powercloud GmbH](https://power.cloud/en/){:target="_blank"}_
 - Stakeholder and expectation management
 - In charge of two backend microservices
 - Strong focus on RESTful API and database design

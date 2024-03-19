@@ -4,8 +4,6 @@ title: Markus Döring's CV
 ---
 # Markus Döring
 
-<i><a href="http://example.com/" target="_blank">Hello, world!</a></i>
-
 ## Education
 
 `2018`
@@ -22,7 +20,7 @@ __BA. Communication and Media Studies__, _University of Leipzig_
 `2022 - now `
 __Product Owner__, _[powercloud GmbH](https://power.cloud/en/){:target="_blank"}_
 - Stakeholder and expectation management
-- In charge of two backend microservices
+- In charge of two backend microservices handling prices for energy market
 - Strong focus on RESTful API and database design
 - Business analysis
 - Backlog organisation
@@ -33,7 +31,7 @@ __Product Owner__, _[powercloud GmbH](https://power.cloud/en/){:target="_blank"}
   - \- behavior-driven development
 
 `2019 - 2022`
-__Product Manager__, _[Vizzlo GmbH](https://vizzlo.com/)_
+__Product Manager__, _[Vizzlo GmbH](https://vizzlo.com/){:target="_blank"}_
 - Stakeholder and expectation management
 - Requirements engineering
 - Backlog organisation
@@ -42,7 +40,7 @@ __Product Manager__, _[Vizzlo GmbH](https://vizzlo.com/)_
 - Software testing, quality assurance
 
 `2018 - 2019`
-__Research associate__, _[Becker Büttner Held Consulting AG](https://www.bbh-beratung.de/en/)_
+__Research associate__, _[Becker Büttner Held Consulting AG](https://www.bbh-beratung.de/en/){:target="_blank"}_
 - Implementation of energy audits according to DIN 16247
 - Introduction of energy management systems according to ISO 50001
 
@@ -71,9 +69,9 @@ __Working Student__
 - Basic: SQL, Javascript
 
 ### (own) R packages
-- [ggpointless](https://github.com/flrd/ggpointless/) Collection of geometries and 
+- [ggpointless](https://github.com/flrd/ggpointless/){:target="_blank"} Collection of geometries and 
     statistics for 'ggplot2'.
-- [standardlastprofile](https://github.com/flrd/standardlastprofile/) Standard load profiles for electricty from BDEW in a tidy format.
+- [standardlastprofile](https://github.com/flrd/standardlastprofile/){:target="_blank"} Standard load profiles for electricty from BDEW in a tidy format.
 
 ## Personal
 - Birth date: April 1, 1986

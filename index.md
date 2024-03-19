@@ -23,6 +23,7 @@ __Product Owner__, _[powercloud GmbH](https://power.cloud/en/)_
 - In charge of two backend microservices
 - Strong focus on RESTful API and database design
 - Business analysis
+- Backlog organisation
 - Training of employees regarding
   - \- software development
   - \- requirements engineering
@@ -51,7 +52,6 @@ __Working Student__
   - _PMG Presse Monitor GmbH_, Media Analyst.
 
 ## Languages
-
 - Native: German
 - Fluent: English
 - Basic: French, Russian

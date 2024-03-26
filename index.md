@@ -20,7 +20,7 @@ __BA. Communication and Media Studies__, _University of Leipzig_
 `2022 - now `
 __Product Owner__, _[powercloud GmbH](https://power.cloud/en/){:target="_blank"}_
 - Stakeholder and expectation management
-- In charge of two backend microservices handling prices for energy market
+- Responsible for two backend services handling prices for energy utilities
 - Strong focus on RESTful API and database design
 - Business analysis
 - Backlog organisation

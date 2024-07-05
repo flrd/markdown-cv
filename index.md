@@ -17,25 +17,26 @@ __BA. Communication and Media Studies__, _University of Leipzig_
 
 ## Experience
 
-`2022 - now `
+`2021 - now `
 __Product Owner__, _[powercloud GmbH](https://power.cloud/en/){:target="_blank"}_
 - Stakeholder and expectation management
-- Responsible for two backend services handling prices for energy utilities
-- Strong focus on RESTful API and database design
-- Business analysis
+- Roadmap planning
 - Backlog organisation
+- Business Analysis
+- Responsibility for 2 backend microservices handling prices for energy utilities
+- Strong focus on RESTful API and database design
 - Training of employees regarding
   - \- software development
   - \- requirements engineering
   - \- writing of user stories, documentations
   - \- behavior-driven development
 
-`2019 - 2022`
+`2019 - 2021`
 __Product Manager__, _[Vizzlo GmbH](https://vizzlo.com/){:target="_blank"}_
 - Stakeholder and expectation management
 - Requirements engineering
 - Backlog organisation
-- Key-account-management
+- Key-account management
 - UI/UX design
 - Software testing, quality assurance
 
@@ -59,19 +60,14 @@ __Working Student__
 ## Software knowledge
 
 ### Tools
+- OpenAPI
 - Jira, Confluence
 - Cucumber, Gherkin, X-Ray
-- Mermaid JS
 - Git, Github, Bitbucket
 
 ### Programming skills
 - Advanced: R
-- Basic: SQL, Javascript
-
-### (own) R packages
-- [ggpointless](https://github.com/flrd/ggpointless/){:target="_blank"} Collection of geometries and 
-    statistics for 'ggplot2'.
-- [standardlastprofile](https://github.com/flrd/standardlastprofile/){:target="_blank"} Standard load profiles for electricty from BDEW in a tidy format.
+- Basic: SQL, Javascript, Python
 
 ## Personal
 - Birth date: April 1, 1986

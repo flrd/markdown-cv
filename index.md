@@ -19,12 +19,12 @@ __BA. Communication and Media Studies__, _University of Leipzig_
 
 `2021 - now `
 __Product Owner__, _[powercloud GmbH](https://power.cloud/en/){:target="_blank"}_
-- Stakeholder and expectation management
+- Business Analysis
 - Roadmap planning
 - Backlog organisation
-- Business Analysis
 - Responsibility for 2 backend microservices handling prices for energy utilities
-- Strong focus on RESTful API and database design
+- Focus on RESTful API and database design
+- Stakeholder and expectation management
 - Training of employees regarding
   - \- software development
   - \- requirements engineering
@@ -33,10 +33,10 @@ __Product Owner__, _[powercloud GmbH](https://power.cloud/en/){:target="_blank"}
 
 `2019 - 2021`
 __Product Manager__, _[Vizzlo GmbH](https://vizzlo.com/){:target="_blank"}_
+- Key-account management
+- Backlog organisation
 - Stakeholder and expectation management
 - Requirements engineering
-- Backlog organisation
-- Key-account management
 - UI/UX design
 - Software testing, quality assurance
 

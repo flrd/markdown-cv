@@ -7,10 +7,10 @@ title: Markus Döring's CV
 ## Education
 
 `2018`
-__MSc. Economics__, _University of Leipzig._
+__MSc. Economics__, _University of Leipzig_
 
 `2014`
-__BSc. Economics__, _Free University Berlin._
+__BSc. Economics__, _Free University Berlin_
 
 `2010`
 __BA. Communication and Media Studies__, _University of Leipzig_
@@ -47,10 +47,10 @@ __Research associate__, _[Becker Büttner Held Consulting AG](https://www.bbh-be
 
 `2009 - 2016`
 __Working Student__
-  - _Becker Büttner Held Consulting AG_, Consultant.
-  - _CMS Hasche Sigle_, Public Relations.
-  - _Institute for Ecological Economy Research (IÖW)_, Editor.
-  - _PMG Presse Monitor GmbH_, Media Analyst.
+  - _Becker Büttner Held Consulting AG_, Consultant
+  - _CMS Hasche Sigle_, Public Relations
+  - _Institute for Ecological Economy Research (IÖW)_, Editor
+  - _PMG Presse Monitor GmbH_, Media Analyst
 
 ## Languages
 - Native: German
@@ -60,8 +60,8 @@ __Working Student__
 ## Software knowledge
 
 ### Tools
-- OpenAPI
 - Jira, Confluence
+- OpenAPI
 - Cucumber, Gherkin, X-Ray
 - Git, Github, Bitbucket
 

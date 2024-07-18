@@ -2,77 +2,26 @@
 layout: cv
 title: Markus Döring's CV
 ---
-# Markus Döring
+Dear Ladies and Gentlemen,
 
-## Education
+ING's commitment to providing employees with constant opportunities for development particularly appeals to me, as I am a curious person. The advertised position as Product / Feature Engineer Business Banking, with its requirements for analytical thinking and communication skills, aligns with my competencies as a Product Owner and offers me the opportunity to broaden my horizons.
 
-`2018`
-__MSc. Economics__, _University of Leipzig_
+Throughout my career, I have demonstrated a strong ability to manage a development team, meet expectations from stakeholders, and deliver complex projects that bridge the gap between business needs and technical solutions. I currently work as the product owner of a 10-person team, in which developers, quality engineers, and business analysts from various countries work together remotely on two JAVA microservices. The main task of our products is to validate, aggregate, and provide prices, charges, and levies that are required for billing end customers and energy utilities in the highly regulated German energy market.
 
-`2014`
-__BSc. Economics__, _Free University Berlin_
+My experience in a leading billing software such as powercloud has equipped me with the skills I need for the role of a product / feature engineer. Key highlights of my career include:
 
-`2010`
-__BA. Communication and Media Studies__, _University of Leipzig_
+- Product Ownership and Management: As a product owner, I lead cross-functional teams to develop and launch solutions that significantly improved operational efficiency and customer satisfaction.
 
-## Experience
+- Technical Proficiency: I possess a solid foundation in data analysis and information design, enabling me to dissect complex questions and generate actionable insights.
 
-`2021 - now `
-__Product Owner__, _[powercloud GmbH](https://power.cloud/en/){:target="_blank"}_
-- Business Analysis
-- Roadmap planning
-- Backlog organisation
-- Responsibility for 2 backend microservices handling prices for energy utilities
-- Focus on RESTful API and database design
-- Stakeholder and expectation management
-- Training of employees regarding
-  - \- software development
-  - \- requirements engineering
-  - \- writing of user stories, documentations
-  - \- behavior-driven development
+- Stakeholder Collaboration: My role requires constant collaboration with stakeholders, ensuring that technical solutions are aligned with business goals. I excel at translating technical jargon into comprehensible terms for non-technical stakeholders.
 
-`2019 - 2021`
-__Product Manager__, _[Vizzlo GmbH](https://vizzlo.com/){:target="_blank"}_
-- Key-account management
-- Backlog organisation
-- Stakeholder and expectation management
-- Requirements engineering
-- UI/UX design
-- Software testing, quality assurance
+- Project Management: I manage projects from conception through to completion, ensuring they are delivered on time and within budget while meeting all specified requirements.
 
-`2018 - 2019`
-__Research associate__, _[Becker Büttner Held Consulting AG](https://www.bbh-beratung.de/en/){:target="_blank"}_
-- Implementation of energy audits according to DIN 16247
-- Introduction of energy management systems according to ISO 50001
+I am enthusiastic about the opportunity to discuss how my background, skills, and certifications align with the needs of ING. With a solid background in software development, complemented by my sharp analytical skills and passion for technology, I am confident that I can contribute effectively to (y)our team and to the future of business banking at ING. I look forward to hearing from you.
 
-`2009 - 2016`
-__Working Student__
-  - _Becker Büttner Held Consulting AG_, Consultant
-  - _CMS Hasche Sigle_, Public Relations
-  - _Institute for Ecological Economy Research (IÖW)_, Editor
-  - _PMG Presse Monitor GmbH_, Media Analyst
-
-## Languages
-- Native: German
-- Fluent: English
-- Basic: French, Russian
-
-## Software knowledge
-
-### Tools
-- Jira, Confluence
-- OpenAPI
-- Cucumber, Gherkin, X-Ray
-- Git, Github, Bitbucket
-
-### Programming skills
-- Advanced: R
-- Basic: SQL, Javascript, Python
-
-## Personal
-- Birth date: April 1, 1986
-- Location: Leipzig
-- Interests: running, cycling
+Sincerely,
+Markus Döring
 
 <!--
 ### Last updated: 2024/03

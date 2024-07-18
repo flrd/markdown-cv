@@ -15,7 +15,7 @@ My experience in a leading billing software such as powercloud has equipped me w
 - **Technical Proficiency**: I possess a solid foundation in data analysis and information design, enabling \\
   me to dissect complex questions and generate actionable insights.
 - **Stakeholder Collaboration**: My role requires constant collaboration with stakeholders, ensuring that \\
-  technical solutions are aligned with business goals. I excel at translating technical jargon into
+  technical solutions are aligned with business goals. I excel at translating technical jargon into \\
   comprehensible terms for non-technical stakeholders.
 - **Project Management**: I manage projects from conception through to completion, ensuring they are \\
   delivered on time and within budget while meetingall specified requirements.

@@ -10,13 +10,10 @@ Throughout my career, I have demonstrated a strong ability to manage a developme
 
 My experience in a leading billing software such as powercloud has equipped me with the skills I need for the role of a product / feature engineer. Key highlights of my career include:
 
-- Product Ownership and Management: As a product owner, I lead cross-functional teams to develop and launch solutions that significantly improved operational efficiency and customer satisfaction.
-
-- Technical Proficiency: I possess a solid foundation in data analysis and information design, enabling me to dissect complex questions and generate actionable insights.
-
-- Stakeholder Collaboration: My role requires constant collaboration with stakeholders, ensuring that technical solutions are aligned with business goals. I excel at translating technical jargon into comprehensible terms for non-technical stakeholders.
-
-- Project Management: I manage projects from conception through to completion, ensuring they are delivered on time and within budget while meeting all specified requirements.
+* **Product Ownership and Management**: As a product owner, I lead cross-functional teams to develop and launch solutions that significantly improved operational efficiency and customer satisfaction.
+* **Technical Proficiency**: I possess a solid foundation in data analysis and information design, enabling me to dissect complex questions and generate actionable insights.
+* **Stakeholder Collaboration**: My role requires constant collaboration with stakeholders, ensuring that technical solutions are aligned with business goals. I excel at translating technical jargon into comprehensible terms for non-technical stakeholders.
+* **Project Management**: I manage projects from conception through to completion, ensuring they are delivered on time and within budget while meeting all specified requirements.
 
 I am enthusiastic about the opportunity to discuss how my background, skills, and certifications align with the needs of ING. With a solid background in software development, complemented by my sharp analytical skills and passion for technology, I am confident that I can contribute effectively to (y)our team and to the future of business banking at ING. I look forward to hearing from you.
 

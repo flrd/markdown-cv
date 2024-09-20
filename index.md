@@ -71,7 +71,7 @@ __Working Student__
 
 ## Profiles
 - [Github](https://github.com/flrd)
-- [LinkedIn](www.linkedin.com/in/markus-d-7a7549176)
+- [LinkedIn](https://www.linkedin.com/in/markus-d-7a7549176/)
 
 ## Personal
 - Birth date: April 1, 1986

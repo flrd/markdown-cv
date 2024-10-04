@@ -67,7 +67,7 @@ __Working Student__
 
 ### Programming skills
 - Advanced: R
-- Basic: SQL, Javascript, Python
+- Basic: SQL, Python
 
 ## Profiles
 - [Github](https://github.com/flrd)
